@@ -8,6 +8,6 @@ This project aims to provide some basic functionalities for high-level camera ap
 - [ ] Camera2Record
 - [ ] Camera2BurstCapture
 - [ ] Camera2RawCapture
-- [ ] Camera2DualCamera
+- [x] [Camera2DualCamera](https://github.com/chuzcjoe/Camera2Zoom)
 - [ ] Camera2DualCameraCapture
 - [ ] Camera2DualCameraRecord
